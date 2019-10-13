@@ -97,14 +97,7 @@
       %publish
       %clock
       %weather
-      %group-store
-      %group-hook
-      %permission-store
-      %permission-group-hook
-      %chat-store
-      %chat-hook
-      %chat-view
-      %chat-cli
+      %thread-store
   ==
 ::
 ++  deft-fish                                           ::  default connects
